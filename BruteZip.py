@@ -20,7 +20,7 @@ def anime(text):
         time.sleep(0.04)
 
 # Default Wordlist Path
-AUTO_WORDLIST = "/data/data/com.termux/files/home/PDF-Unlocker/wordlist.txt"
+AUTO_WORDLIST = "/data/data/com.termux/files/home/BruteZip/wordlist.txt"
 
 # Number of threads (Increase for more speed)
 MAX_THREADS = os.cpu_count() * 2  # Uses double the CPU cores for fast execution
