@@ -15,9 +15,13 @@ BruteZip is a **fast and optimized brute-force tool** designed to **crack passwo
 
 ## **📌 Installation:**  
 ### **For Termux:**
-```bash
-pkg update -y && pkg upgrade -y
-pkg install git -y
-git clone https://github.com/Rakibul0909/BruteZip.git
-cd BruteZip
-bash setup.sh
+
+`pkg update -y && pkg upgrade -y`
+
+`pkg install git -y`
+
+`git clone    https://github.com/Rakibul0909/BruteZip.git`
+
+`cd BruteZip`
+
+`bash setup.sh`
