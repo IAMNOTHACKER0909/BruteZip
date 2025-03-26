@@ -84,7 +84,7 @@ def brute_force_p7zip(file_path, wordlist):
         sys.exit(1)
 
     # Read passwords
-    with open(wordlist, "r", encoding="utf-8") as wl:
+    with open(wordlist, "r", encoding="latin-1") as wl:
         passwords = [password.strip() for password in wl.readlines()]
     print ()
     print(f"{GREEN}[+] Starting Brute-Force Attack ....{RESET}\n")
