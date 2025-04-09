@@ -22,7 +22,7 @@ BruteZip is a **fast and optimized brute-force tool** designed to **crack passwo
 
 `pkg install python -y`
 
-`git clone    https://github.com/Rakibul0909/BruteZip.git`
+`git clone https://github.com/IAMNOTHACKER0909/BruteZip.git`
 
 `cd BruteZip`
 
