@@ -51,11 +51,11 @@ __________                __         __________.__
     print()
 
     # दूसरे टेक्स्ट को सेंटर करो
-    text2 = "Coded by: Rakibul | GitHub: Rakibul0909".center(55)
+    text2 = "Coded by: I AM NOT HACKER | GitHub: IAMNOTHACKER0909".center(55)
 
-    # "Rakibul" को ग्रीन और "GitHub: Rakibul0909" को येलो करो
-    text2 = text2.replace("Rakibul", f"{GREEN}Rakibul{MAGENTA}", 1)  
-    text2 = text2.replace("GitHub: Rakibul0909", f"{YELLOW}GitHub: Rakibul0909{MAGENTA}")
+    # "I AM NOT HACKER" को ग्रीन और "GitHub: IAMNOTHACKER0909" को येलो करो
+    text2 = text2.replace("I AM NOT HACKER", f"{GREEN}I AM NOT HACKER{MAGENTA}", 1)  
+    text2 = text2.replace("GitHub: IAMNOTHACKER0909", f"{YELLOW}GitHub: IAMNOTHACKER0909{MAGENTA}")
 
     # एनिमेशन के साथ प्रिंट करो
     anime(f"{MAGENTA}{text2}{RESET}\n\n\n")
