@@ -36,11 +36,10 @@ __________                __         __________.__
  |______  / |__|  |____/ |__|  \___  >_______ \|__|   __/
         \/                         \/        \/   |__|
 {RESET}""")
-    # पहले बिना कलर के टेक्स्ट को सेंटर करो
-    # पहले बिना कलर के टेक्स्ट को सेंटर करो
+   
     text1 = "★ BruteZip - ZIP/7z Brute-Force Tool ★".center(55) 
 
-    # अब स्टार को ग्रीन, टेक्स्ट को मैजेंटा और बाकी को Cyan करो
+    
     text1 = text1.replace("★", f"{GREEN}★{CYAN}")  
     text1 = text1.replace("BruteZip - ZIP/7z Brute-Force Tool", f"{MAGENTA}BruteZip - ZIP/7z Brute-Force Tool{CYAN}")
 
